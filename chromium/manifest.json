@@ -7,7 +7,7 @@
     },
     "default_popup": "popup.html"
   },
-  "author": "Raymond Hill",
+  "author": "Wicorn29",
   "background": {
     "service_worker": "/js/background.js",
     "type": "module"
@@ -326,11 +326,11 @@
     "scripting",
     "storage"
   ],
-  "short_name": "uBO Lite",
+  "short_name": "uBOG",
   "storage": {
     "managed_schema": "managed_storage.json"
   },
-  "version": "2025.1230.2048",
+  "version": "2025.1230.2048-w29",
   "web_accessible_resources": [
     {
       "resources": [
